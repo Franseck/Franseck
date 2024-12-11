@@ -57,3 +57,9 @@ src="https://user-images.githubusercontent.com/36131492/158049056-56e3a853-a309-
                     </picture>
                     </a></p>
            
+# My projects
+| Project Name | Libraries and Technologies | How Does My Project Look |
+|--------------|----------------------------------|-------------------------|
+| <small>[SpaceApp](https://seckin-space.vercel.app/)</small><br/><br/><h3>[Repo](https://github.com/Franseck/SpaceApp)</h3> | React, TailwindCss + DaisyUI + TailBlocks, Router, AOS | <img src=""  width="485" height="270" > |
+| <small>[RestaurantApp](https://seckin-restaurant.vercel.app/)</small><br/><br/><h3>[Repo](https://github.com/Franseck/RestaurantApp)</h3> | React, TailwindCss + DaisyUI, Router, AOS| <img src=""  width="485" height="270">|
+|
